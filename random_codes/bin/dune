@@ -1,0 +1,4 @@
+(executable
+ (public_name random_codes)
+ (name main)
+ (libraries random_codes))
